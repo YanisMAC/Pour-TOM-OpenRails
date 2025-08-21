@@ -1,0 +1,7 @@
+Scale Rail Track Shape Fix.
+All MSTS default track shapes modified by
+reducing rail width to more prototypical 
+value of 0.075 meters.  This modification
+also includes the -3 and LinearMipLinear
+texture fixes.
+By Joseph Realmuto
